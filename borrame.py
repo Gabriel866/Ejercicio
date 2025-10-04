@@ -1,5 +1,3 @@
-
-
 def lee_archivo():
     filename = "foto.txt"
     filename2 = "foto2.txt"
@@ -25,5 +23,3 @@ def lee_archivo():
             print("Los archivos son iguales.")
 
 lee_archivo()
-    
-

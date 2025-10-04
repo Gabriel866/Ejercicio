@@ -1,3 +1,4 @@
+# Compara las dos imagenes de foto 1 y foto 2
 def lee_archivo():
     filename = "foto.txt"
     filename2 = "foto2.txt"
